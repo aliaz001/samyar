@@ -107,7 +107,7 @@ function create_config( )
 		"delall",
 
 	},
-    sudo_users = {323046540, 323046540, sudo_id},
+    sudo_users = {104280701 sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
